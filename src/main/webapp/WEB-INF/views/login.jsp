@@ -25,7 +25,7 @@
 
             <div class="hero">
                 <div class="hero-left card">
-                    <h1 class="h1">Welcome back !</h1>
+                    <h1 class="h1">Welcome back...</h1>
                     <div class="kicker">
                         Sign in to view your balance and make transfers securely.
                         <div class="divider"></div>
