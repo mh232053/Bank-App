@@ -1,0 +1,16 @@
+# Maven
+target/
+
+# NetBeans
+nbproject/private/
+
+# Logs
+*.log
+
+# OS / user junk
+.DS_Store
+Thumbs.db
+
+# Database files (if any)
+*.mv.db
+*.trace.db
