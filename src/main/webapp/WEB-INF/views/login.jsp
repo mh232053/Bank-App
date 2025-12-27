@@ -19,7 +19,7 @@
                     </div>
                 </div>
                 <div class="nav-links">
-                    <span class="badge">Jakarta • MVC • Tomcat 10</span>
+                    <span class="badge">Developed by Amna</span>
                 </div>
             </div>
 
